@@ -9,7 +9,7 @@ export const App: React.FC = () => {
     <ThemeProvider theme={theme}>
     <>
       <Global />
-      
+      Hello world
     </>
   </ThemeProvider>
   );
